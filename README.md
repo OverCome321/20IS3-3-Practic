@@ -22,7 +22,28 @@ Function GetName(). Выводит одно имя по указанному и�
 ![image](https://user-images.githubusercontent.com/113111030/218066298-3ea75527-83f2-490d-a41a-a55bf2f668c1.png)
 ![image](https://user-images.githubusercontent.com/113111030/218067293-18ac3475-9ea0-458a-98a8-99e4a754c6e5.png)
 
+Function GetNames(). Выводит количество имен соответствующих введенному имени
+
+![image](https://user-images.githubusercontent.com/113111030/218095697-17fbfeef-3235-495e-a7a4-99be2140d263.png)
+![image](https://user-images.githubusercontent.com/113111030/218095888-cd9a4f63-f56c-4c6d-a8f7-d20b4677383d.png)
+
+Function GetAll(). Сортирует массив по указанному параметру
+
+![image](https://user-images.githubusercontent.com/113111030/218095991-30a882fb-6b46-4bfc-a8d4-e8fea1f26036.png)
+
+По возрастанию 
+
+![image](https://user-images.githubusercontent.com/113111030/218096278-25e3507d-28db-40a3-8a03-ff1156dc42ad.png)
+![image](https://user-images.githubusercontent.com/113111030/218096120-d046ecef-9fd3-4858-b366-4e0c1430ef03.png)
+
+
+По убыванию
+
+![image](https://user-images.githubusercontent.com/113111030/218096102-abcce575-126a-4e12-8f6a-6d22761f5faf.png)
+![image](https://user-images.githubusercontent.com/113111030/218096155-e3f739d6-6e35-4847-8e32-ce3c60b55f08.png)
+
 **Task 2**
+
 Function GetAll(). Выводит все записи
 
 ![image](https://user-images.githubusercontent.com/113111030/218078191-d4cfc5e3-d201-4af7-baa3-eef7fd00029a.png)
