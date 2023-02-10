@@ -26,6 +26,8 @@ Function GetName(). Выводит одно имя по указанному и�
 Function GetAll(). Выводит все записи
 
 ![image](https://user-images.githubusercontent.com/113111030/218078191-d4cfc5e3-d201-4af7-baa3-eef7fd00029a.png)
+![image](https://user-images.githubusercontent.com/113111030/218083271-8f009ab5-19d6-483b-b26f-f420ded35941.png)
+
 
 Function GetById(). Ищет запись по id
 
@@ -34,14 +36,19 @@ Function GetById(). Ищет запись по id
 Function Add(). Добавляет запись
 
 ![image](https://user-images.githubusercontent.com/113111030/218078399-e641c402-5d84-4ed1-ba33-ae7bb4b4ca37.png)
+![image](https://user-images.githubusercontent.com/113111030/218083485-96eb0c0b-fa8c-48e3-bff3-7415b1b5a969.png)
+
 
 Function Update(). Функция обновляет запись
 
 ![image](https://user-images.githubusercontent.com/113111030/218078514-b0c4f99c-4cd5-4181-98a0-70f9401abf91.png)
+![image](https://user-images.githubusercontent.com/113111030/218083947-b02d65ba-a4f3-433e-80e5-a5ce456d8e37.png)
+
 
 Function Delete(). Функция удалаяет запись
 
 ![image](https://user-images.githubusercontent.com/113111030/218083071-01575c52-a992-4168-8a43-fd5eff4964af.png)
+![image](https://user-images.githubusercontent.com/113111030/218085261-f32f8af2-378a-41dc-bbd7-6e618658964f.png)
 
 Function GetByCity(). Функция ищет город
 
