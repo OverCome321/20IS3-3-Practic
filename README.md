@@ -32,6 +32,7 @@ Function GetAll(). Выводит все записи
 Function GetById(). Ищет запись по id
 
 ![image](https://user-images.githubusercontent.com/113111030/218078296-4fe4a76b-2041-4f71-a731-280675494eb9.png)
+![image](https://user-images.githubusercontent.com/113111030/218086536-dff3111a-30cf-4f25-9690-c889483ad7fa.png)
 
 Function Add(). Добавляет запись
 
@@ -53,5 +54,6 @@ Function Delete(). Функция удалаяет запись
 Function GetByCity(). Функция ищет город
 
 ![image](https://user-images.githubusercontent.com/113111030/218083147-a64e24ed-3cac-4109-97a1-e4db4516a6f0.png)
+![image](https://user-images.githubusercontent.com/113111030/218086946-3cda1c58-5e70-478b-a59b-4dcaa037cc4a.png)
 
 
