@@ -22,4 +22,4 @@ Function GetName(). Выводит одно имя по указанному и�
 ![image](https://user-images.githubusercontent.com/113111030/218066298-3ea75527-83f2-490d-a41a-a55bf2f668c1.png)
 ![image](https://user-images.githubusercontent.com/113111030/218067293-18ac3475-9ea0-458a-98a8-99e4a754c6e5.png)
 
-                  **Task №2**
+**Task 2**
