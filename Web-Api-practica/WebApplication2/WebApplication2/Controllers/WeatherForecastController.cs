@@ -4,7 +4,7 @@ namespace WebApplication2.Controllers
 {
     public class WeatherData
     {
-        public int ID { get; set; }
+        public int Id { get; set; }
         public string Data { get; set; }
         public int Degree { get; set; }
         public string Location { get; set; }
@@ -20,11 +20,11 @@ namespace WebApplication2.Controllers
         };
         public static List<WeatherData> weatherDatas = new()
         {
-            new WeatherData() { ID = 1, Data = "11.04.2022", Degree = 10, Location = "Москва"},
-            new WeatherData() { ID = 2, Data = "27.11.2022", Degree = -60, Location = "Якутия"},
-            new WeatherData() { ID = 3, Data = "16.07.2022", Degree = 19, Location = "Омск"},
-            new WeatherData() { ID = 4, Data = "18.01.2023", Degree = -20, Location = "Тула"},
-            new WeatherData() { ID = 5, Data = "22.02.2023", Degree = -1, Location = "Тверь"},
+            new WeatherData() { Id = 1, Data = "11.04.2022", Degree = 10, Location = "Москва"},
+            new WeatherData() { Id = 2, Data = "27.11.2022", Degree = -60, Location = "Якутия"},
+            new WeatherData() { Id = 3, Data = "16.07.2022", Degree = 19, Location = "Омск"},
+            new WeatherData() { Id = 4, Data = "18.01.2023", Degree = -20, Location = "Тула"},
+            new WeatherData() { Id = 5, Data = "22.02.2023", Degree = -1, Location = "Тверь"},
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
@@ -34,18 +34,18 @@ namespace WebApplication2.Controllers
             _logger = logger;
         }
 
-        [HttpGet(Name = "GetAll")]
+        [HttpGet("GetAll")]
         public List<WeatherData> GetAll()
         {
             return weatherDatas;
         }
 
-        [HttpGet("{id}")]
-        public IActionResult GetById(int id)
+        [HttpGet("id")]
+        public IActionResult GetName(int id)
         {
             for (int i = 0; i < weatherDatas.Count; i++)
             {
-                if (weatherDatas[i].ID == id)
+                if (weatherDatas[i].Id == id)
                 {
                     return Ok(weatherDatas[i]);
                 }
@@ -63,7 +63,7 @@ namespace WebApplication2.Controllers
 
             for (int i = 0; i < weatherDatas.Count; i++)
             {
-                if (weatherDatas[i].ID == data.ID)
+                if (weatherDatas[i].Id == data.Id)
                 {
                     return BadRequest("Запись с таким id уже есть");
                 }
@@ -77,7 +77,7 @@ namespace WebApplication2.Controllers
         {
             for (int i = 0; i < weatherDatas.Count; i++)
             {
-                if (weatherDatas[i].ID == data.ID)
+                if (weatherDatas[i].Id == data.Id)
                 {
                     weatherDatas[i] = data;
                     return Ok();
@@ -90,7 +90,7 @@ namespace WebApplication2.Controllers
         {
             for (int i = 0; i < weatherDatas.Count; i++)
             {
-                if(weatherDatas[i].ID == id)
+                if(weatherDatas[i].Id == id)
                 {
                     weatherDatas.RemoveAt(i);
                     return Ok();
@@ -99,8 +99,8 @@ namespace WebApplication2.Controllers
             return BadRequest("Такая запись не обнаружена");
         }
 
-        [HttpGet("{Find-city}")]
-        public IActionResult GetCity(string location) 
+        [HttpGet("location")]
+        public IActionResult GetByCity(string location)
         {
             for (int i = 0; i < weatherDatas.Count; i++)
             {

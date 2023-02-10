@@ -8,7 +8,7 @@ namespace WebApplication1.Controllers
     {
         private static List<string> Summaries = new()
         {
-        "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+        "Freezing", "Bracing", "Chilly", "Cool", "Cool", "Warm", "Balmy", "Cool", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
@@ -18,7 +18,7 @@ namespace WebApplication1.Controllers
             _logger = logger;
         }
 
-        [HttpGet(Name = "GetWeatherForecast")]
+        [HttpGet("GetWeatherForecast")]
         public List<string> Get()
         {
             return Summaries;
@@ -61,7 +61,7 @@ namespace WebApplication1.Controllers
             return Ok();
         }
 
-        [HttpGet("{index}")]
+        [HttpGet("index")]
         public string GetName(int index)
         {
             if (index < 0 || index >= Summaries.Count)
@@ -69,6 +69,39 @@ namespace WebApplication1.Controllers
                 return "Индекс не может быть отрицательным";
             }
             return Summaries[index];
+        }
+        [HttpGet("find-by-name")]
+        public int GetNames(string name)
+        {
+            return Summaries.Count(x => x == name);
+        }
+
+        [HttpGet("GetAll")]
+        public IActionResult GetAll (int? sortStrategy)
+        {
+            try
+            {
+                if (sortStrategy == null)
+                {
+
+                }
+                if (sortStrategy == 1)
+                {
+                    Summaries.Sort();
+
+                }
+                if (sortStrategy == -1)
+                {
+                    Summaries.Sort();
+                    Summaries.Reverse();
+                }
+                return Ok();
+            }
+            catch
+            {
+                return BadRequest("Некорректное значение параметра sortStrategy");
+            }
+            
         }
     }
 }
