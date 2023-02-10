@@ -23,3 +23,22 @@ Function GetName(). Выводит одно имя по указанному и�
 ![image](https://user-images.githubusercontent.com/113111030/218067293-18ac3475-9ea0-458a-98a8-99e4a754c6e5.png)
 
 **Task 2**
+Function GetAll(). Выводит все записи
+
+![image](https://user-images.githubusercontent.com/113111030/218078191-d4cfc5e3-d201-4af7-baa3-eef7fd00029a.png)
+
+Function GetById(). Ищет запись по id
+
+![image](https://user-images.githubusercontent.com/113111030/218078296-4fe4a76b-2041-4f71-a731-280675494eb9.png)
+
+Function Add(). Добавляет запись
+
+![image](https://user-images.githubusercontent.com/113111030/218078399-e641c402-5d84-4ed1-ba33-ae7bb4b4ca37.png)
+
+Function Update(). Функция обновляет запись
+
+![image](https://user-images.githubusercontent.com/113111030/218078514-b0c4f99c-4cd5-4181-98a0-70f9401abf91.png)
+
+Function Delete(). Функция удалаяет запись
+
+
