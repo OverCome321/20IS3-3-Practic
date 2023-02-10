@@ -41,4 +41,10 @@ Function Update(). Функция обновляет запись
 
 Function Delete(). Функция удалаяет запись
 
+![image](https://user-images.githubusercontent.com/113111030/218083071-01575c52-a992-4168-8a43-fd5eff4964af.png)
+
+Function GetByCity(). Функция ищет город
+
+![image](https://user-images.githubusercontent.com/113111030/218083147-a64e24ed-3cac-4109-97a1-e4db4516a6f0.png)
+
 
