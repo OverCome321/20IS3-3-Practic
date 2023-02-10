@@ -14,3 +14,5 @@ Function Delete(). Удаление имени по указанному инд�
 Function GetName(). Выводит одно имя по указанному индексу 
 
 ![image](https://user-images.githubusercontent.com/113111030/218066298-3ea75527-83f2-490d-a41a-a55bf2f668c1.png)
+
+Results
