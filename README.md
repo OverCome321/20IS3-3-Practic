@@ -84,4 +84,8 @@ Function GetByCity(). Функция ищет город
 
 ![image](https://user-images.githubusercontent.com/113111030/219591225-d3bfc219-222f-41a2-9761-710614f3f495.png)
 
+Переносим наработки в Ms Sql 
+
+![image](https://user-images.githubusercontent.com/113111030/219598468-691da0b7-26cc-4718-b89d-43fc292996ea.png)
+
 
