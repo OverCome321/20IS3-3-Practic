@@ -82,5 +82,5 @@ Function GetByCity(). Функция ищет город
 
 Проектировка базы данных 
 
-![image](https://user-images.githubusercontent.com/113111030/219583994-87974a83-8ff3-4446-b488-3ac71ae9ce87.png)
+![image](https://user-images.githubusercontent.com/113111030/219584515-27bb5449-0ba0-453f-8d44-e9c830171789.png)
 
