@@ -870,6 +870,19 @@
           }
         }
       },
+      "BusinessLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DataAccess": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BusinessLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusinessLogic.dll": {}
+        }
+      },
       "DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -2229,6 +2242,11 @@
         "version.txt"
       ]
     },
+    "BusinessLogic/1.0.0": {
+      "type": "project",
+      "path": "../BusinessLogic/BusinessLogic.csproj",
+      "msbuildProject": "../BusinessLogic/BusinessLogic.csproj"
+    },
     "DataAccess/1.0.0": {
       "type": "project",
       "path": "../DataAccess/DataAccess.csproj",
@@ -2237,6 +2255,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "BusinessLogic >= 1.0.0",
       "DataAccess >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.11",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.11",
@@ -2270,6 +2289,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\user\\Desktop\\20IS3-3-Practic\\Practic Day 2-3\\WebApplication1\\BusinessLogic\\BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\20IS3-3-Practic\\Practic Day 2-3\\WebApplication1\\BusinessLogic\\BusinessLogic.csproj"
+            },
             "C:\\Users\\user\\Desktop\\20IS3-3-Practic\\Practic Day 2-3\\WebApplication1\\DataAccess\\DataAccess.csproj": {
               "projectPath": "C:\\Users\\user\\Desktop\\20IS3-3-Practic\\Practic Day 2-3\\WebApplication1\\DataAccess\\DataAccess.csproj"
             }

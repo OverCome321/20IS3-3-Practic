@@ -1,3 +1,9 @@
+using BusinessLogic.Interfaces;
+using BusinessLogic.Services;
+using DataAccess.Models;
+using DataAccess.Wrapper;
+using Microsoft.EntityFrameworkCore;
+
 namespace WebApplication1
 {
     public class Program
@@ -6,6 +12,14 @@ namespace WebApplication1
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            //Строка подключения к бд
+            builder.Services.AddDbContext<WebShopContext>
+                (options => 
+                    options.UseSqlServer("Server=(LocalDB)\\MSSQLLocalDB;Database=WebShop; Integrated Security=True;"));
+
+            builder.Services.AddScoped<IRepositoryWrapper, RepositoryWrapper>();
+
+            builder.Services.AddScoped<IUserService, UserService>();
             // Add services to the container.
 
             builder.Services.AddControllers();
