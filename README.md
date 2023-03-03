@@ -5,6 +5,9 @@
 <h1 align="center">Practic day 1<a href="https://daniilshat.ru/" target="_blank"></h1>
 
   
+  
+  
+  
 Function Add(). Добавление имени в список
 
 ![image](https://user-images.githubusercontent.com/113111030/218065355-e5f2ca54-95ed-48e5-b238-5dc7579fa5aa.png)
