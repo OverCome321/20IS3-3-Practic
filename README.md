@@ -109,4 +109,8 @@ Function GetByCity(). Функция ищет город
 
 ![image](https://user-images.githubusercontent.com/113111030/219602655-a8546dbe-d5d9-4985-98ed-1584d922336f.png)
 
+Step 2
+Создать проект с задачами 
+
+![image](https://user-images.githubusercontent.com/113111030/222697105-e1159a2f-f137-4df3-85f2-29b010a91a2d.png)
 
