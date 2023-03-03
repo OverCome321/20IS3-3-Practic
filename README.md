@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Nikita</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm Student of group 20IS3-3 in Tsaritsyno College</h3>
+<h3 align="left">I'm Student of group 20IS3-3 in Tsaritsyno College</h3>
 
 <h1 align="center">Practic day 1<a href="https://daniilshat.ru/" target="_blank"></h1>
 
-
+  
 Function Add(). Добавление имени в список
 
 ![image](https://user-images.githubusercontent.com/113111030/218065355-e5f2ca54-95ed-48e5-b238-5dc7579fa5aa.png)
@@ -105,6 +105,8 @@ Function GetByCity(). Функция ищет город
 ![image](https://user-images.githubusercontent.com/113111030/219591225-d3bfc219-222f-41a2-9761-710614f3f495.png)
 
 Переносим наработки в Ms Sql 
+
+<h3 align="left">[sabaka.net](http://sabaka.net)](https://github.com/OverCome321/20IS3-3-Practic/blob/main/Practic%20Day%202/dbQueery.sql)</h3>
 
 ![image](https://user-images.githubusercontent.com/113111030/219598468-691da0b7-26cc-4718-b89d-43fc292996ea.png)
 
