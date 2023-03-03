@@ -1,4 +1,8 @@
-# 20IS3-3-Practic Гутнов Никита
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Nikita</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I'm Student of group 20IS3-3 in Tsaritsyno College</h3>
+
+
 Function Add(). Добавление имени в список
 
 ![image](https://user-images.githubusercontent.com/113111030/218065355-e5f2ca54-95ed-48e5-b238-5dc7579fa5aa.png)
