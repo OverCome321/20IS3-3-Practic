@@ -2,7 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm Student of group 20IS3-3 in Tsaritsyno College</h3>
 
-<h1 align="center">Practic day 1<a href="https://daniilshat.ru/" target="_blank"></a> 
+<h1 align="center">Practic day 1<a href="https://daniilshat.ru/" target="_blank"></h1>
+
 
 Function Add(). Добавление имени в список
 
