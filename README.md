@@ -106,7 +106,7 @@ Function GetByCity(). Функция ищет город
 
 Переносим наработки в Ms Sql 
 
-<h3 align="left">[sqlcode.net](https://github.com/OverCome321/20IS3-3-Practic/blob/main/Practic%20Day%202/dbQueery.sql)</h3>
+[sqlcode.net](https://github.com/OverCome321/20IS3-3-Practic/blob/main/Practic%20Day%202/dbQueery.sql)
 
 ![image](https://user-images.githubusercontent.com/113111030/219598468-691da0b7-26cc-4718-b89d-43fc292996ea.png)
 
