@@ -6,8 +6,21 @@
 
   
   
-Первое задание - [sqlcode.net](https://github.com/OverCome321/20IS3-3-Practic/tree/main/Practic%20Day%201/Web-Api-practica/WebApplication1) 
   
+Первое задание - [task1](https://github.com/OverCome321/20IS3-3-Practic/tree/main/Practic%20Day%201/Web-Api-practica/WebApplication1) 
+Второе задание - [task2](https://github.com/OverCome321/20IS3-3-Practic/tree/main/Practic%20Day%201/Web-Api-practica/WebApplication2)
+Третье задание -  [task3](https://github.com/OverCome321/20IS3-3-Practic#:~:text=%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D1%81%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%D0%BC%D0%B8)
+Четвертое задание - [task4](https://github.com/OverCome321/20IS3-3-Practic/tree/main/Practic%20Day%202-3-4/misc)
+Пятое задание - [task5](https://github.com/OverCome321/20IS3-3-Practic/tree/main/Practic%20Day%202-3-4/WebApplication1)
+  
+Ссылки на скрины с заданиями: Первое задание - [screen1](https://github.com/OverCome321/20IS3-3-Practic#:~:text=Function%20Add().%20%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%B2%20%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA)
+Второе задание - [screen2](https://github.com/OverCome321/20IS3-3-Practic#:~:text=Function%20GetAll().%20%D0%92%D1%8B%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%20%D0%B2%D1%81%D0%B5%20%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B8)
+Третье задание - [screen3](https://github.com/OverCome321/20IS3-3-Practic#:~:text=%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D1%81%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%D0%BC%D0%B8)
+Четвертое задание - [screen4](https://github.com/OverCome321/20IS3-3-Practic#:~:text=%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%B1%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
+Задание 5 - [screen5](https://github.com/OverCome321/20IS3-3-Practic#:~:text=%D0%A4%D0%B0%D0%B9%D0%BB%20IRepositoryBase)
+  
+<h3 align="center">Задание 1</h3>
+
 Function Add(). Добавление имени в список
 
 ![image](https://user-images.githubusercontent.com/113111030/218065355-e5f2ca54-95ed-48e5-b238-5dc7579fa5aa.png)
@@ -58,7 +71,7 @@ Function GetAll(). Сортирует массив по указанному п�
 
 ![image](https://user-images.githubusercontent.com/113111030/218096155-e3f739d6-6e35-4847-8e32-ce3c60b55f08.png)
 
-**Task 2**
+<h3 align="center">Задание 2</h3>
 
 Function GetAll(). Выводит все записи
 
@@ -102,6 +115,7 @@ Function GetByCity(). Функция ищет город
 
 <h1 align="center">Practic day 2<a href="https://daniilshat.ru/" target="_blank"></h1>
 
+<h3 align="center">Задание 4</h3>
 
 Проектировка базы данных 
 
@@ -109,7 +123,6 @@ Function GetByCity(). Функция ищет город
 
 Переносим наработки в Ms Sql 
 
-[sqlcode.net](https://github.com/OverCome321/20IS3-3-Practic/blob/main/Practic%20Day%202/dbQueery.sql)
 
 ![image](https://user-images.githubusercontent.com/113111030/219598468-691da0b7-26cc-4718-b89d-43fc292996ea.png)
 
@@ -120,10 +133,67 @@ Function GetByCity(). Функция ищет город
 
 <h1 align="center">Practic day 3<a href="https://daniilshat.ru/" target="_blank"></h1>
   
+<h3 align="center">Задание 3</h3>
 
 Создать проект с задачами 
 
 ![image](https://user-images.githubusercontent.com/113111030/222697105-e1159a2f-f137-4df3-85f2-29b010a91a2d.png)
 
 ![image](https://user-images.githubusercontent.com/113111030/222699748-48127483-625c-4485-8c6a-322e1cb20f69.png)
+
+<h1 align="center">Practic day 4<a href="https://daniilshat.ru/" target="_blank"></h1>
+
+<h3 align="center">Задание 5</h3>
+
+![image](https://user-images.githubusercontent.com/113111030/224273882-2f93abcc-ba90-4101-8aec-52913083270c.png)
+  
+<h3 align="center">Библиотека классов DataAccess</h3>
+
+<h3 align="left">Папка Interfaces</h3>
+
+Файл IRepositoryBase
+
+![image](https://user-images.githubusercontent.com/113111030/224270606-a055a897-fa06-435d-8231-2bfd9673b93f.png)
+
+Файл IUserRepository
+
+![image](https://user-images.githubusercontent.com/113111030/224270887-df2cfb1a-36e5-4069-a009-3c4fbc87d500.png)
+
+<h3 align="left">Папка Models</h3>
+
+![image](https://user-images.githubusercontent.com/113111030/224271037-b7f05535-66ee-4fa9-9bb6-b0f0f7c29f91.png)
+
+<h3 align="left">Папка RepositoryBase</h3>
+
+Файл RepositoryBase
+
+![image](https://user-images.githubusercontent.com/113111030/224271173-d74c5854-395b-4c2c-8df1-44570e775605.png)
+
+Файл UserRepository
+
+![image](https://user-images.githubusercontent.com/113111030/224271863-6c3c6d24-8213-4e91-8994-845a0dab6972.png)
+
+<h3 align="left">Папка Wrapper</h3>
+
+Файл IRepositoryWrapper
+
+![image](https://user-images.githubusercontent.com/113111030/224273501-7eac187c-1187-4ee3-9fa0-d4bca71d7864.png)
+
+Файл RepositoryWrapper
+
+![image](https://user-images.githubusercontent.com/113111030/224273589-d4d265f5-3e2a-4846-9a9f-a94dd722490d.png)
+
+ <h3 align="center">Библиотека классов BusinessLogic</h3>
+
+<h3 align="left">Папка Interfaces</h3>
+  
+Файл IUserService
+
+![image](https://user-images.githubusercontent.com/113111030/224274126-ce90eeb4-b5ac-46ff-a5ac-76011d620f90.png)
+
+<h3 align="left">Папка Services</h3>
+  
+Файл UserService
+  
+![image](https://user-images.githubusercontent.com/113111030/224274383-21f04c73-8509-42bd-b5fe-e51b1aa271d6.png)
 
