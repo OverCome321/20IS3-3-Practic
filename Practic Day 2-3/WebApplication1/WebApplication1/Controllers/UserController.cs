@@ -22,19 +22,12 @@ namespace BackendApi.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
         {
-            try
+            var userDates = await _userService.GetById(id);
+            if (userDates == null)
             {
-                var userDates = await _userService.GetById(id);
-                if (userDates == null)
-                {
-                    return NotFound();
-                }
-                return Ok(userDates);
+                return NotFound();
             }
-            catch(Exception ex) 
-            {
-                return BadRequest(ex.ToString());
-            }
+            return Ok(userDates);
         }
         [HttpPost]
         public async Task<IActionResult> Add(User user)

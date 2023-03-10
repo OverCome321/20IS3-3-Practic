@@ -43,6 +43,18 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -156,9 +168,6 @@
             "projectReferences": {
               "C:\\Users\\user\\Desktop\\20IS3-3-Practic\\Practic Day 2-3\\WebApplication1\\BusinessLogic\\BusinessLogic.csproj": {
                 "projectPath": "C:\\Users\\user\\Desktop\\20IS3-3-Practic\\Practic Day 2-3\\WebApplication1\\BusinessLogic\\BusinessLogic.csproj"
-              },
-              "C:\\Users\\user\\Desktop\\20IS3-3-Practic\\Practic Day 2-3\\WebApplication1\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\20IS3-3-Practic\\Practic Day 2-3\\WebApplication1\\DataAccess\\DataAccess.csproj"
               }
             }
           }

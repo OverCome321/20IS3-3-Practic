@@ -9,11 +9,9 @@
       "WebApplication1/1.0.0": {
         "dependencies": {
           "BusinessLogic": "1.0.0",
-          "DataAccess": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.11",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.11",
-          "Swashbuckle.AspNetCore": "6.2.3",
-          "DataAccess.Reference": "1.0.0.0"
+          "Swashbuckle.AspNetCore": "6.2.3"
         },
         "runtime": {
           "WebApplication1.dll": {}
@@ -497,12 +495,12 @@
           "BusinessLogic.dll": {}
         }
       },
-      "DataAccess.Reference/1.0.0.0": {
+      "DataAccess/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.11"
+        },
         "runtime": {
-          "DataAccess.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "DataAccess.dll": {}
         }
       }
     }
@@ -861,8 +859,8 @@
       "serviceable": false,
       "sha512": ""
     },
-    "DataAccess.Reference/1.0.0.0": {
-      "type": "reference",
+    "DataAccess/1.0.0": {
+      "type": "project",
       "serviceable": false,
       "sha512": ""
     }

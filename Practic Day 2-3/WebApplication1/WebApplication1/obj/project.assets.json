@@ -874,7 +874,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "DataAccess": "1.0.0"
+          "DataAccess": "1.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.11"
         },
         "compile": {
           "bin/placeholder/BusinessLogic.dll": {}
@@ -2256,7 +2257,6 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "BusinessLogic >= 1.0.0",
-      "DataAccess >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.11",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.11",
       "Swashbuckle.AspNetCore >= 6.2.3"
@@ -2291,9 +2291,6 @@
           "projectReferences": {
             "C:\\Users\\user\\Desktop\\20IS3-3-Practic\\Practic Day 2-3\\WebApplication1\\BusinessLogic\\BusinessLogic.csproj": {
               "projectPath": "C:\\Users\\user\\Desktop\\20IS3-3-Practic\\Practic Day 2-3\\WebApplication1\\BusinessLogic\\BusinessLogic.csproj"
-            },
-            "C:\\Users\\user\\Desktop\\20IS3-3-Practic\\Practic Day 2-3\\WebApplication1\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\20IS3-3-Practic\\Practic Day 2-3\\WebApplication1\\DataAccess\\DataAccess.csproj"
             }
           }
         }
