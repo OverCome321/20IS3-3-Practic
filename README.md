@@ -6,7 +6,7 @@
 
   
   
-  
+Первое задание - [sqlcode.net](https://github.com/OverCome321/20IS3-3-Practic/tree/main/Practic%20Day%201/Web-Api-practica/WebApplication1) 
   
 Function Add(). Добавление имени в список
 
