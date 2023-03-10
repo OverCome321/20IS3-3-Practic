@@ -17,6 +17,7 @@
 Второе задание - [screen2](https://github.com/OverCome321/20IS3-3-Practic#:~:text=Function%20GetAll().%20%D0%92%D1%8B%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%20%D0%B2%D1%81%D0%B5%20%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B8)
 Третье задание - [screen3](https://github.com/OverCome321/20IS3-3-Practic#:~:text=%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D1%81%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%D0%BC%D0%B8)
 Четвертое задание - [screen4](https://github.com/OverCome321/20IS3-3-Practic#:~:text=%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%B1%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
+Задание 5 - [screen5](https://github.com/OverCome321/20IS3-3-Practic#:~:text=%D0%A4%D0%B0%D0%B9%D0%BB%20IRepositoryBase)
   
 <h3 align="center">Задание 1</h3>
 
@@ -169,3 +170,13 @@ Function GetByCity(). Функция ищет город
 Файл UserRepository
 
 ![image](https://user-images.githubusercontent.com/113111030/224271863-6c3c6d24-8213-4e91-8994-845a0dab6972.png)
+
+<h3 align="left">Папка Wrapper</h3>
+
+Файл IRepositoryWrapper
+
+![image](https://user-images.githubusercontent.com/113111030/224273501-7eac187c-1187-4ee3-9fa0-d4bca71d7864.png)
+
+Файл RepositoryWrapper
+
+![image](https://user-images.githubusercontent.com/113111030/224273589-d4d265f5-3e2a-4846-9a9f-a94dd722490d.png)
