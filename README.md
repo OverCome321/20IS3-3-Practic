@@ -143,4 +143,25 @@ Function GetByCity(). Функция ищет город
 
 <h3 align="center">Задание 5</h3>
 
-М
+<h3 align="center">Библиотека классов DataAccess</h3>
+
+<h3 align="left">Папка Interfaces</h3>
+
+Файл IRepositoryBase
+
+![image](https://user-images.githubusercontent.com/113111030/224270606-a055a897-fa06-435d-8231-2bfd9673b93f.png)
+
+Файл IUserRepository
+
+![image](https://user-images.githubusercontent.com/113111030/224270887-df2cfb1a-36e5-4069-a009-3c4fbc87d500.png)
+
+<h3 align="left">Папка Models</h3>
+
+![image](https://user-images.githubusercontent.com/113111030/224271037-b7f05535-66ee-4fa9-9bb6-b0f0f7c29f91.png)
+
+<h3 align="left">Папка RepositoryBase</h3>
+
+Файл RepositoryBase
+
+![image](https://user-images.githubusercontent.com/113111030/224271173-d74c5854-395b-4c2c-8df1-44570e775605.png)
+
