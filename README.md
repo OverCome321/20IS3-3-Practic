@@ -145,6 +145,8 @@ Function GetByCity(). Функция ищет город
 
 <h3 align="center">Задание 5</h3>
 
+![image](https://user-images.githubusercontent.com/113111030/224273882-2f93abcc-ba90-4101-8aec-52913083270c.png)
+  
 <h3 align="center">Библиотека классов DataAccess</h3>
 
 <h3 align="left">Папка Interfaces</h3>
@@ -180,3 +182,18 @@ Function GetByCity(). Функция ищет город
 Файл RepositoryWrapper
 
 ![image](https://user-images.githubusercontent.com/113111030/224273589-d4d265f5-3e2a-4846-9a9f-a94dd722490d.png)
+
+ <h3 align="center">Библиотека классов BusinessLogic</h3>
+
+<h3 align="left">Папка Interfaces</h3>
+  
+Файл IUserService
+
+![image](https://user-images.githubusercontent.com/113111030/224274126-ce90eeb4-b5ac-46ff-a5ac-76011d620f90.png)
+
+<h3 align="left">Папка Services</h3>
+  
+Файл UserService
+  
+![image](https://user-images.githubusercontent.com/113111030/224274383-21f04c73-8509-42bd-b5fe-e51b1aa271d6.png)
+
