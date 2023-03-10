@@ -6,8 +6,10 @@
 
   
   
-Первое задание - [sqlcode.net](https://github.com/OverCome321/20IS3-3-Practic/tree/main/Practic%20Day%201/Web-Api-practica/WebApplication1) 
-  
+Первое задание - [task1](https://github.com/OverCome321/20IS3-3-Practic/tree/main/Practic%20Day%201/Web-Api-practica/WebApplication1) 
+Второе задание - [task2](https://github.com/OverCome321/20IS3-3-Practic/tree/main/Practic%20Day%201/Web-Api-practica/WebApplication2)
+Третье задание - 
+Четвертое задание - [task4](https://github.com/OverCome321/20IS3-3-Practic/tree/main/Practic%20Day%202-3-4/misc)
 Function Add(). Добавление имени в список
 
 ![image](https://user-images.githubusercontent.com/113111030/218065355-e5f2ca54-95ed-48e5-b238-5dc7579fa5aa.png)
@@ -109,7 +111,6 @@ Function GetByCity(). Функция ищет город
 
 Переносим наработки в Ms Sql 
 
-[sqlcode.net](https://github.com/OverCome321/20IS3-3-Practic/blob/main/Practic%20Day%202/dbQueery.sql)
 
 ![image](https://user-images.githubusercontent.com/113111030/219598468-691da0b7-26cc-4718-b89d-43fc292996ea.png)
 
