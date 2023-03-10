@@ -12,6 +12,8 @@
 Четвертое задание - [task4](https://github.com/OverCome321/20IS3-3-Practic/tree/main/Practic%20Day%202-3-4/misc)
 Пятое задание - [task5](https://github.com/OverCome321/20IS3-3-Practic/tree/main/Practic%20Day%202-3-4/WebApplication1)
 
+<h3 align="center">Задание 1</h3>
+
 Function Add(). Добавление имени в список
 
 ![image](https://user-images.githubusercontent.com/113111030/218065355-e5f2ca54-95ed-48e5-b238-5dc7579fa5aa.png)
@@ -62,7 +64,7 @@ Function GetAll(). Сортирует массив по указанному п�
 
 ![image](https://user-images.githubusercontent.com/113111030/218096155-e3f739d6-6e35-4847-8e32-ce3c60b55f08.png)
 
-**Task 2**
+<h3 align="center">Задание 2</h3>
 
 Function GetAll(). Выводит все записи
 
@@ -106,6 +108,7 @@ Function GetByCity(). Функция ищет город
 
 <h1 align="center">Practic day 2<a href="https://daniilshat.ru/" target="_blank"></h1>
 
+<h3 align="center">Задание 4</h3>
 
 Проектировка базы данных 
 
@@ -123,6 +126,7 @@ Function GetByCity(). Функция ищет город
 
 <h1 align="center">Practic day 3<a href="https://daniilshat.ru/" target="_blank"></h1>
   
+<h3 align="center">Задание 3</h3>
 
 Создать проект с задачами 
 
