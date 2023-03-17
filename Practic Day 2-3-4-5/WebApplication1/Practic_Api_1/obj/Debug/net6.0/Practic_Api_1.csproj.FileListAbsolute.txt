@@ -1,0 +1,238 @@
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Practic_Api_1.exe
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Practic_Api_1.deps.json
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Practic_Api_1.runtimeconfig.json
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Practic_Api_1.dll
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Practic_Api_1.pdb
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.AssemblyInfo.cs
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\staticwebassets\msbuild.Practic_Api_1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\staticwebassets\msbuild.build.Practic_Api_1.props
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Practic_Api_1.props
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Practic_Api_1.props
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\scopedcss\bundle\Practic_Api_1.styles.css
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.csproj.CopyComplete
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.dll
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\refint\Practic_Api_1.dll
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.pdb
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.genruntimeconfig.cache
+C:\Users\user\Desktop\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\ref\Practic_Api_1.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\appsettings.Development.json
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\appsettings.json
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Practic_Api_1.exe
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Practic_Api_1.deps.json
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Practic_Api_1.runtimeconfig.json
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Practic_Api_1.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Practic_Api_1.pdb
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Humanizer.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\DataAccess.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\bin\Debug\net6.0\DataAccess.pdb
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.csproj.AssemblyReference.cache
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.AssemblyInfoInputs.cache
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.AssemblyInfo.cs
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.csproj.CoreCompileInputs.cache
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.MvcApplicationPartsAssemblyInfo.cs
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.MvcApplicationPartsAssemblyInfo.cache
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\scopedcss\bundle\Practic_Api_1.styles.css
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.csproj.CopyComplete
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\refint\Practic_Api_1.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.pdb
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.genruntimeconfig.cache
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\Practic_Api_1\obj\Debug\net6.0\ref\Practic_Api_1.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.AssemblyInfo.cs
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug\net6.0\refint\Practic_Api_1.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.pdb
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Practic_Api_1.exe
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Practic_Api_1.deps.json
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Practic_Api_1.runtimeconfig.json
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Practic_Api_1.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Practic_Api_1.pdb
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\DataAccess.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug\net6.0\staticwebassets\msbuild.Practic_Api_1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug\net6.0\staticwebassets\msbuild.build.Practic_Api_1.props
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Practic_Api_1.props
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Practic_Api_1.props
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug\net6.0\scopedcss\bundle\Practic_Api_1.styles.css
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.csproj.CopyComplete
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.genruntimeconfig.cache
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug\net6.0\ref\Practic_Api_1.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\appsettings.json
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Practic_Api_1.exe
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Practic_Api_1.deps.json
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Practic_Api_1.runtimeconfig.json
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Practic_Api_1.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Practic_Api_1.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\DataAccess.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.AssemblyInfoInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.AssemblyInfo.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\staticwebassets\msbuild.Practic_Api_1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\staticwebassets\msbuild.build.Practic_Api_1.props
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Practic_Api_1.props
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Practic_Api_1.props
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\scopedcss\bundle\Practic_Api_1.styles.css
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.csproj.CopyComplete
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\refint\Practic_Api_1.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.genruntimeconfig.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\ref\Practic_Api_1.dll

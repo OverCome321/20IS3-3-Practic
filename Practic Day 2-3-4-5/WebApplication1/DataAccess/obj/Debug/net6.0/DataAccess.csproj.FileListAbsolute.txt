@@ -1,0 +1,70 @@
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Practic-Day-2-main\Practic_ApiDB_3\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4\WebApplication1\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4\WebApplication1\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4\WebApplication1\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4\WebApplication1\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4\WebApplication1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4\WebApplication1\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4\WebApplication1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4\WebApplication1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4\WebApplication1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4\WebApplication1\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4\WebApplication1\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4\WebApplication1\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4\WebApplication1\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4\WebApplication1\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4-5\WebApplication1\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4-5\WebApplication1\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4-5\WebApplication1\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4-5\WebApplication1\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4-5\WebApplication1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4-5\WebApplication1\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4-5\WebApplication1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4-5\WebApplication1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4-5\WebApplication1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4-5\WebApplication1\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4-5\WebApplication1\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4-5\WebApplication1\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4-5\WebApplication1\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\fanel\OneDrive\Рабочий стол\20IS3-3-Practic\Practic Day 2-3-4-5\WebApplication1\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
