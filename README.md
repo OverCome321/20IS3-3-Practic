@@ -216,3 +216,7 @@ Function GetByCity(). Функция ищет город
 <h3 align="left">Класс Domain</h3>
 
 ![image](https://user-images.githubusercontent.com/113111030/229110745-0c8f5376-58c1-45d8-957f-89320d985120.png)
+
+<h3 align="left">Миграция в MSSQL</h3>
+  
+![image](https://user-images.githubusercontent.com/113111030/229110912-6c5985b8-5633-4b5c-b0d2-749f315c3ce2.png)
