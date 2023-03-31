@@ -227,3 +227,22 @@ Function GetByCity(). Функция ищет город
   
 ![image](https://user-images.githubusercontent.com/113111030/229112622-3941da8a-f8c6-4d92-831f-00669f8510ac.png)
 
+<h3 align="center">Задание 7</h3>
+
+<h3 align="left">Добавляем файл editorconfig в проект</h3>
+
+![image](https://user-images.githubusercontent.com/113111030/229121744-11308ff2-0259-46de-8d73-0aa82649ec32.png)
+
+<h3 align="left">Настройка файла</h3>
+
+![image](https://user-images.githubusercontent.com/113111030/229121942-804ca84c-9b6c-4690-aa02-6932f0da0f29.png)
+
+<h3 align="left">Предупреждения</h3>
+
+![image](https://user-images.githubusercontent.com/113111030/229122291-8f57f0e8-7274-4374-9475-56610e96bda7.png)
+
+<h3 align="left">Работа с консолью и dotnet</h3>
+
+![image](https://user-images.githubusercontent.com/113111030/229123212-e3bc93c1-d384-4def-af98-878997e5d51d.png)
+
+![image](https://user-images.githubusercontent.com/113111030/229123649-c877fb88-0b7d-456f-bb60-0a2cffe0536c.png)
