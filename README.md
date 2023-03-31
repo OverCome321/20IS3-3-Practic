@@ -208,3 +208,5 @@ Function GetByCity(). Функция ищет город
 <h3 align="left">Вывод 1 юзера по Id</h3>
  
  ![image](https://user-images.githubusercontent.com/113111030/225866464-0697fb9f-c21f-4a85-9a09-b1385f99fb65.png)
+
+<h1 align="center">Practic day 6<a href="https://daniilshat.ru/" target="_blank"></h1>
