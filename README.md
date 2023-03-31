@@ -213,7 +213,7 @@ Function GetByCity(). Функция ищет город
 
 <h1 align="center">Practic day 6<a href="https://daniilshat.ru/" target="_blank"></h1>
 
-<h3 align="center">Задание 5</h3>
+<h3 align="center">Задание 6</h3>
 
 <h3 align="left">Класс Domain</h3>
 
