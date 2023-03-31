@@ -9,7 +9,7 @@
   
 Первое задание - [task1](https://github.com/OverCome321/20IS3-3-Practic/tree/main/Practic%20Day%201/Web-Api-practica/WebApplication1) 
 Второе задание - [task2](https://github.com/OverCome321/20IS3-3-Practic/tree/main/Practic%20Day%201/Web-Api-practica/WebApplication2)
-Третье задание -  [task3](https://github.com/OverCome321/20IS3-3-Practic#:~:text=%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D1%81%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%D0%BC%D0%B8)
+Третье задание -  [task3](https://github.com/users/OverCome321/projects/2)
 Четвертое задание - [task4](https://github.com/OverCome321/20IS3-3-Practic/tree/main/Practic%20Day%202-3-4-5/misc)
 Пятое задание - [task5](https://github.com/OverCome321/20IS3-3-Practic/tree/main/Practic%20Day%202-3-4-5/WebApplication1)
 Шестое задание - [task6](https://github.com/OverCome321/20IS3-3-Practic/tree/main/Practic%20Day%206/WebShop-Api)
