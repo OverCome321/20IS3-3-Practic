@@ -210,3 +210,18 @@ Function GetByCity(). Функция ищет город
  ![image](https://user-images.githubusercontent.com/113111030/225866464-0697fb9f-c21f-4a85-9a09-b1385f99fb65.png)
 
 <h1 align="center">Practic day 6<a href="https://daniilshat.ru/" target="_blank"></h1>
+
+<h3 align="center">Задание 5</h3>
+
+<h3 align="left">Класс Domain</h3>
+
+![image](https://user-images.githubusercontent.com/113111030/229110745-0c8f5376-58c1-45d8-957f-89320d985120.png)
+
+<h3 align="left">Миграция в MSSQL</h3>
+ 
+ ![image](https://user-images.githubusercontent.com/113111030/229112706-255e822f-91ea-4ada-a36c-8ffcdc68bb92.png)
+  
+![image](https://user-images.githubusercontent.com/113111030/229112571-c784b8eb-b3b6-4563-9512-3d5cb96fae3f.png)
+  
+![image](https://user-images.githubusercontent.com/113111030/229112622-3941da8a-f8c6-4d92-831f-00669f8510ac.png)
+
