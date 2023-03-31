@@ -2277,7 +2277,6 @@
     "net6.0": [
       "BusinessLogic >= 1.0.0",
       "DataAccess >= 1.0.0",
-      "Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.14",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.14",
       "Swashbuckle.AspNetCore >= 6.2.3"
@@ -2320,9 +2319,6 @@
             },
             "C:\\Users\\user\\Desktop\\20IS3-3-Practic\\Practic Day 6\\WebShop-Api\\DataAccess\\DataAccess.csproj": {
               "projectPath": "C:\\Users\\user\\Desktop\\20IS3-3-Practic\\Practic Day 6\\WebShop-Api\\DataAccess\\DataAccess.csproj"
-            },
-            "C:\\Users\\user\\Desktop\\20IS3-3-Practic\\Practic Day 6\\WebShop-Api\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\20IS3-3-Practic\\Practic Day 6\\WebShop-Api\\Domain\\Domain.csproj"
             }
           }
         }

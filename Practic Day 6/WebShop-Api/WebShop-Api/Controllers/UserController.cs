@@ -1,5 +1,5 @@
-﻿using BusinessLogic.Interfaces;
-using Domain.Models;
+﻿using Domain.Models;
+using Domain.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BackendApi.Controllers
