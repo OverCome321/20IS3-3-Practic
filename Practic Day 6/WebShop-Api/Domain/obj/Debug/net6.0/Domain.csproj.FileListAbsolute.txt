@@ -1,0 +1,42 @@
+C:\Users\user\Desktop\WebShop-Api\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WebShop-Api\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\WebShop-Api\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\WebShop-Api\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\WebShop-Api\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WebShop-Api\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\user\Desktop\WebShop-Api\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\user\Desktop\WebShop-Api\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\WebShop-Api\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\WebShop-Api\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\WebShop-Api\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\user\Desktop\WebShop-Api\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\WebShop-Api\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\user\Desktop\WebShop-Api\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\user\Desktop\Practic-Day-2-main\WebShop-Api\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\user\Desktop\Practic-Day-2-main\WebShop-Api\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\user\Desktop\Practic-Day-2-main\WebShop-Api\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\Practic-Day-2-main\WebShop-Api\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\Practic-Day-2-main\WebShop-Api\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Practic-Day-2-main\WebShop-Api\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Practic-Day-2-main\WebShop-Api\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Practic-Day-2-main\WebShop-Api\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\Practic-Day-2-main\WebShop-Api\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Practic-Day-2-main\WebShop-Api\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\Practic-Day-2-main\WebShop-Api\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\user\Desktop\Practic-Day-2-main\WebShop-Api\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\Practic-Day-2-main\WebShop-Api\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\user\Desktop\Practic-Day-2-main\WebShop-Api\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\user\Desktop\20IS3-3-Practic\Practic Day 6\WebShop-Api\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\user\Desktop\20IS3-3-Practic\Practic Day 6\WebShop-Api\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\user\Desktop\20IS3-3-Practic\Practic Day 6\WebShop-Api\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\20IS3-3-Practic\Practic Day 6\WebShop-Api\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\20IS3-3-Practic\Practic Day 6\WebShop-Api\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\20IS3-3-Practic\Practic Day 6\WebShop-Api\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\20IS3-3-Practic\Practic Day 6\WebShop-Api\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\20IS3-3-Practic\Practic Day 6\WebShop-Api\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\20IS3-3-Practic\Practic Day 6\WebShop-Api\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\20IS3-3-Practic\Practic Day 6\WebShop-Api\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\20IS3-3-Practic\Practic Day 6\WebShop-Api\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\user\Desktop\20IS3-3-Practic\Practic Day 6\WebShop-Api\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\20IS3-3-Practic\Practic Day 6\WebShop-Api\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\user\Desktop\20IS3-3-Practic\Practic Day 6\WebShop-Api\Domain\obj\Debug\net6.0\ref\Domain.dll
