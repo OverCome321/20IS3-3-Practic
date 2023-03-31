@@ -218,5 +218,10 @@ Function GetByCity(). Функция ищет город
 ![image](https://user-images.githubusercontent.com/113111030/229110745-0c8f5376-58c1-45d8-957f-89320d985120.png)
 
 <h3 align="left">Миграция в MSSQL</h3>
+ 
+ ![image](https://user-images.githubusercontent.com/113111030/229112706-255e822f-91ea-4ada-a36c-8ffcdc68bb92.png)
   
-![image](https://user-images.githubusercontent.com/113111030/229110912-6c5985b8-5633-4b5c-b0d2-749f315c3ce2.png)
+![image](https://user-images.githubusercontent.com/113111030/229112571-c784b8eb-b3b6-4563-9512-3d5cb96fae3f.png)
+  
+![image](https://user-images.githubusercontent.com/113111030/229112622-3941da8a-f8c6-4d92-831f-00669f8510ac.png)
+
