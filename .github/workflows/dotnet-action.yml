@@ -1,13 +1,12 @@
 name: .NET Core CI
 on:
   push:
-    branches:
-      - master
+    branches: [ main ]
   pull_request:
-    branches:
-      - master
+    branches: [ main ]
 jobs:
   build:
+  
     runs-on: ubuntu-latest
     
     steps:
@@ -15,8 +14,10 @@ jobs:
       - name: Setup .NET Core
         uses: actions/setup-dotnet@v1
         with:
-          dotnet-version: '3.1'
-      - name: Build
-        run: dotnet build --configuration Release
+          dotnet-version: 3.1.301
+      - name: Install dependencies
+        run: dotnet restore
+      - name: Build 
+        run: dotnet build --configuration Release --no-restore
       - name: Test
-        run: dotnet test --configuration Release --no-build
+        run: dotnet test --no-restore --verbosity normal
