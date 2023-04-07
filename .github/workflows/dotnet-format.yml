@@ -1,5 +1,4 @@
 name: dotnet format
-
 on:
   push:
     paths:
