@@ -273,4 +273,5 @@ Function GetByCity(). Функция ищет город
  
 ![image](https://user-images.githubusercontent.com/113111030/230562267-88064086-e65d-49f0-a802-58d5e7fd76b8.png)
 
+![image](https://user-images.githubusercontent.com/113111030/230569821-eea5c810-bc12-465b-ada0-bc0cdad370f9.png)
 
