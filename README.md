@@ -259,4 +259,18 @@ Function GetByCity(). Функция ищет город
 
  <h3 align="left">Работа с format</h3>
   
- ![image](https://user-images.githubusercontent.com/113111030/230554008-dbe79c6e-807e-4aa5-99a9-a600b1b8649a.png)
+![image](https://user-images.githubusercontent.com/113111030/230554008-dbe79c6e-807e-4aa5-99a9-a600b1b8649a.png)
+
+<h3 align="center">Работа с GitHub Actions</h3>
+
+ <h3 align="left">Создал 2 yml файла</h3>
+ 
+![image](https://user-images.githubusercontent.com/113111030/230557194-cf35e251-55d2-4637-a38c-dd4e1f01279a.png)
+  
+![image](https://user-images.githubusercontent.com/113111030/230557247-91f0211a-df60-4371-bfb9-c8d1e953f78b.png)
+  
+![image](https://user-images.githubusercontent.com/113111030/230557298-f55e0135-c93e-45bd-a682-b005d9d2ea56.png)
+   
+![image](https://user-images.githubusercontent.com/113111030/230556994-23d6d4ce-27b4-426d-afa9-b609f8caa684.png)
+
+
