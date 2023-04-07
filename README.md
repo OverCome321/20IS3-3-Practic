@@ -250,5 +250,9 @@ Function GetByCity(). Функция ищет город
 <h1 align="center">Practic day 7<a href="https://daniilshat.ru/" target="_blank"></h1>
 
 <h3 align="center">Доделываю задание 7</h3>
-
+  
+<h3 align="left">Запуск консольного проекта через dotnet</h3>
+  
 ![image](https://user-images.githubusercontent.com/113111030/230552456-db3a5cf8-8882-43ab-9992-2319dd6b978f.png)
+
+![image](https://user-images.githubusercontent.com/113111030/230552736-64b3a46d-bf0a-4bfc-ad38-f89b4f66984b.png)
