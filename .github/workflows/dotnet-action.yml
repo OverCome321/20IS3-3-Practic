@@ -22,7 +22,8 @@ jobs:
         
       - name: Build 
         run: dotnet build --configuration Release 
+        working-directory: Practic Day 6/WebShop-Api
         
       - name: Test
         run: dotnet test --no-restore --verbosity normal
-        
+        working-directory: Practic Day 6/WebShop-Api
