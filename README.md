@@ -274,3 +274,4 @@ Function GetByCity(). Функция ищет город
 ![image](https://user-images.githubusercontent.com/113111030/230556994-23d6d4ce-27b4-426d-afa9-b609f8caa684.png)
 
 
+[![.NET Core CI](https://github.com/OverCome321/20IS3-3-Practic/actions/workflows/dotnet-actions.yml/badge.svg)](https://github.com/OverCome321/20IS3-3-Practic/actions/workflows/dotnet-actions.yml)
