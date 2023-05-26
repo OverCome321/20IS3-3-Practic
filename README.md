@@ -14,7 +14,8 @@
 Пятое задание - [task5](https://github.com/OverCome321/20IS3-3-Practic/tree/main/Practic%20Day%202-3-4-5/WebApplication1)
 Шестое задание - [task6](https://github.com/OverCome321/20IS3-3-Practic/tree/main/Practic%20Day%206/WebShop-Api)
 Седьмое задание - [task7](https://github.com/OverCome321/20IS3-3-Practic/actions)
-Восьмое задание - [task8](https://github.com/OverCome321/20IS3-3-Practic/actions)
+Восьмое задание - [task8](https://github.com/OverCome321/20IS3-3-Practic/tree/main/Practic%20Day%206/WebShop-Api)
+  
 Ссылки на скрины с заданиями: Первое задание - [screen1](https://github.com/OverCome321/20IS3-3-Practic#:~:text=Function%20Add().%20%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%B2%20%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA)
 Второе задание - [screen2](https://github.com/OverCome321/20IS3-3-Practic#:~:text=Function%20GetAll().%20%D0%92%D1%8B%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%20%D0%B2%D1%81%D0%B5%20%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B8)
 Третье задание - [screen3](https://github.com/OverCome321/20IS3-3-Practic#:~:text=%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D1%81%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%D0%BC%D0%B8)
