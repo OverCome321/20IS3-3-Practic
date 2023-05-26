@@ -277,3 +277,12 @@ Function GetByCity(). Функция ищет город
 
 ![image](https://user-images.githubusercontent.com/113111030/230569821-eea5c810-bc12-465b-ada0-bc0cdad370f9.png)
 
+  
+<h1 align="center">Practic day 8<a href="https://daniilshat.ru/" target="_blank"></h1>
+
+<h3 align="center">Доделываю задание 8</h3>
+  
+![image](https://github.com/OverCome321/20IS3-3-Practic/assets/113111030/94612bd1-1277-4dda-9c8c-3d6971dc09fa)
+
+![image](https://github.com/OverCome321/20IS3-3-Practic/assets/113111030/52646385-65db-45c2-99ce-076a4491e9ee)
+
