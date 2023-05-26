@@ -71,3 +71,7 @@ C:\Users\user\Desktop\20IS3-3-Practic\Practic Day 6\WebShop-Api\WebShop-Api\obj\
 C:\Users\user\Desktop\20IS3-3-Practic\Practic Day 6\WebShop-Api\WebShop-Api\obj\Debug\net6.0\Api-WebShop.pdb
 C:\Users\user\Desktop\20IS3-3-Practic\Practic Day 6\WebShop-Api\WebShop-Api\obj\Debug\net6.0\Api-WebShop.genruntimeconfig.cache
 C:\Users\user\Desktop\20IS3-3-Practic\Practic Day 6\WebShop-Api\WebShop-Api\obj\Debug\net6.0\ref\Api-WebShop.dll
+C:\Users\user\Desktop\20IS3-3-Practic\Practic Day 6\WebShop-Api\WebShop-Api\bin\Debug\net6.0\Api-WebShop.xml
+C:\Users\user\Desktop\20IS3-3-Practic\Practic Day 6\WebShop-Api\WebShop-Api\obj\Debug\net6.0\Api-WebShop.xml
+C:\Users\user\Desktop\20IS3-3-Practic\Practic Day 6\WebShop-Api\WebShop-Api\bin\Debug\net6.0\Mapster.dll
+C:\Users\user\Desktop\20IS3-3-Practic\Practic Day 6\WebShop-Api\WebShop-Api\bin\Debug\net6.0\Mapster.Core.dll

@@ -1,15 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace Domain.Models
+﻿namespace WebShop_Api.Contracts.User
 {
-    public partial class User
+    public class GetUserResponse
     {
-
-        public User()
-        {
-            Carts = new HashSet<Cart>();
-        }
         public int UserId { get; set; }
         public string Email { get; set; } = null!;
         public string Login { get; set; } = null!;
@@ -17,8 +9,5 @@ namespace Domain.Models
         public int RoleId { get; set; }
         public bool IsDeleted { get; set; }
         public string Adress { get; set; } = null!;
-
-        public virtual Role Role { get; set; } = null!;
-        public virtual ICollection<Cart> Carts { get; set; }
     }
 }

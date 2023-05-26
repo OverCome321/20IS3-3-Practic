@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api-WebShop</name>
+    </assembly>
+    <members>
+        <member name="M:WebShop_Api.Controllers.UserController.GetAll">
+             <summary>
+            Просмотр записей в бд
+             </summary>
+        </member>
+        <member name="M:WebShop_Api.Controllers.UserController.GetById(System.Int32)">
+             <summary>
+            Просмотр записи по id
+             </summary>
+        </member>
+        <member name="M:WebShop_Api.Controllers.UserController.Add(WebShop_Api.Contracts.User.CreateUserRequest)">
+             <summary>
+             Создание нового пользователя
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+             POST /Todo
+             {
+                     Email : "coolmail@mail.ru",
+                     Login : "231ffdg",
+                     Password : "!Pa$$word123@",
+                     RoleId : 1,
+                     IsDeleted : 0,
+                     Adress : "Любой"
+             }
+            
+             </remarks>
+             <param name="model">Пользователь</param>
+             <returns></returns>
+        </member>
+        <member name="M:WebShop_Api.Controllers.UserController.Update(WebShop_Api.Contracts.User.GetUserResponse)">
+             <summary>
+             Обновление пользователя
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+                 PUT /Todo
+                 {
+                     UserId : 1
+                     Email : "coolmail@mail.ru",
+                     Login : "231ffdg",
+                     Password : "!Pa$$word123@",
+                     RoleId : 1,
+                     IsDeleted : 0,
+                     Adress : "Любой"
+                 }
+            
+             </remarks>
+             <param name="model">Пользователь</param>
+             <returns></returns>
+        </member>
+        <member name="M:WebShop_Api.Controllers.UserController.Delete(System.Int32)">
+             <summary>
+            удаление записи по id
+             </summary>
+        </member>
+    </members>
+</doc>
