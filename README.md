@@ -288,3 +288,4 @@ Function GetByCity(). Функция ищет город
 
 ![image](https://github.com/OverCome321/20IS3-3-Practic/assets/113111030/52646385-65db-45c2-99ce-076a4491e9ee)
 
+![image](https://github.com/OverCome321/20IS3-3-Practic/assets/113111030/8c4ca8dd-b9ff-442e-924c-4f00aa1f416f)
