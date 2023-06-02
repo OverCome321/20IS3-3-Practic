@@ -32,10 +32,7 @@ namespace WebShop_Api.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
         {
-            var result = await _userService.GetById(id);
-            var response = new GetUserResponse();
-            var responseResult = response.Adapt<User>();
-            return Ok(responseResult);
+            return Ok(await _userService.GetById(id));
         }
         /// <summary>
         /// Создание нового пользователя
@@ -44,7 +41,7 @@ namespace WebShop_Api.Controllers
         /// Пример запроса:
         ///
         /// POST /Todo
-        /// {
+        /// {        
         ///         Email : "coolmail@mail.ru",
         ///         Login : "231ffdg",
         ///         Password : "!Pa$$word123@",
